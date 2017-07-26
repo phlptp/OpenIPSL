@@ -1,6 +1,7 @@
 within OpenIPSL;
 class Copyright "Disclaimer<html>
 <p>OpenIPSL:</p>
+<p>Copyright August 2017 - Philip Top, Lawrence Livermore National Lab, Livermore, CA.</p>
 <p>Copyright August 2017 - Prof. Luigi Vanfretti, Rensselaer Polytechnic Institute, Troy, NY.</p>
 <p>Copyright April 2016 - July 2017 SmarTS Lab (Sweden)</p>
 <ul>
